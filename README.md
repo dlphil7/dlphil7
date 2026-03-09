@@ -1,5 +1,4 @@
 # About Me
-
 - 🔭 I’m currently working on improving my JavaScript and web development skills through a Software Development Apprenticeship.
 - 🌱 I’m currently learning JavaScript, Git, and modern web development tools.
 - 👯 I’m looking to collaborate on ...
