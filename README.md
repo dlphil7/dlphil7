@@ -1,10 +1,5 @@
 # About Me
 
-
-**dlphil7/dlphil7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on improving my JavaScript and web development skills through a Software Development Apprenticeship.
 - 🌱 I’m currently learning JavaScript, Git, and modern web development tools.
 - 👯 I’m looking to collaborate on ...
